@@ -2,7 +2,7 @@
 Task: Classification
 Tags:
   - Classification
-  - YoloV4
+  - Test
 ---
 
 # test-repo
